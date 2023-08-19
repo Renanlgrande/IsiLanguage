@@ -10,15 +10,25 @@ Renan Lima Grande / RA 11202021704
 Itens base:
 
   ✓ Possui 2 tipos de variáveis
+  
   ✓ Possui a estrutura If.. else
+  
   ✓ Possui estrutura de controle while/do while
+
   ✓ Operações Aritméticas executadas corretamente
+  
   ✓ Atribuições realizadas corretamente
+  
   ✓ Possui operações de Entrada e Saída
+  
   ✓ Aceita números decimais
+  
   ✓ Verificar se a variável já foi previamente declarada
+  
   ✓Verificar se a variável foi declarada e não foi usada
+  
   ✓ Verificar se uma variável está sendo usada sem ter valor inicial
+  
   
 Elementos adicionais:
 

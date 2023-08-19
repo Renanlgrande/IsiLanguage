@@ -1,0 +1,20 @@
+programa
+
+	declare numero a, b, c.
+	declare texto d.
+	a:=5.
+	b:=5.
+	c:=2.
+	d:="texto".
+	
+	se (a<b) entao
+	{
+		c := a + b.
+		leia(d).
+	}senao
+	{
+		c := a - b.
+		leia(d).
+	}
+	
+fimprog.

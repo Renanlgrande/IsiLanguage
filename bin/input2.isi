@@ -1,0 +1,19 @@
+programa
+
+	declare numero a, b, c.
+	a:=5.
+	b:=5.
+	c:=2.
+	
+	enquanto(a > b)
+	{
+		b := b / 1.
+	}
+
+	faca
+	{
+		a := a+c.
+	}
+	enquanto(c>a).
+	
+fimprog.

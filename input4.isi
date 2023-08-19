@@ -1,0 +1,15 @@
+programa
+
+	declare numero a, b,c.
+	a:=5.2.
+	b:=5.3.
+	
+	se (a<b) entao
+	{
+		c := a + b.
+	}senao
+	{
+		c := a - b.
+	}
+	
+fimprog.

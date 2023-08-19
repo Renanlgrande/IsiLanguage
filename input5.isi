@@ -1,0 +1,9 @@
+programa
+
+	declare numero a, c.
+	declare texto d.
+
+	escreva("Digite A").
+	a := a+c.
+	
+fimprog.

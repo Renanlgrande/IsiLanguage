@@ -1,0 +1,14 @@
+programa
+
+	declare numero a, b, c.
+	a:=5.
+	b:=5.
+	c:="texto".
+	
+	enquanto(a > b)
+	{
+		escreva("Digite A").
+		leia (a).
+	}
+	
+fimprog.

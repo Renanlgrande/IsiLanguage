@@ -7,6 +7,8 @@ Vinícius Marques Perrone / RA 11202230697
 
 Renan Lima Grande / RA 11202021704
 
+Allan Schrötke / RA 11201920211
+
 Itens base:
 
   ✓ Possui 2 tipos de variáveis
